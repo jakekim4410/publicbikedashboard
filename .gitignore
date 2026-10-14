@@ -16,6 +16,8 @@ ENV/
 .DS_Store
 Thumbs.db
 ~$*
+cloudflared.exe
+
 
 
 # Streamlit
